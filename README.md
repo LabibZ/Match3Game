@@ -53,6 +53,8 @@
 
 Test your wizarding skills in Harry Potter Crush! This classic match-3 game gets a magical makeover with iconic Harry Potter symbols. Swap and match the four house insignias, sorting hats, and Harry Potter to clear the board and score points!
 
+Play on [(Itch.io)[itch.io]](https://labibz.itch.io/harry-potter-crush)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
